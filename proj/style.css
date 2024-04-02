@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+body {
+        background-color: lightblue;
+}
+
+

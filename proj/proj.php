@@ -1,0 +1,40 @@
+<?php
+echo "<style>";
+echo "body{
+    background-color: lightblue;
+}";
+echo "</style>";
+echo "<!DOCTYPE html>";
+echo "<html>";
+echo "<head>";
+echo "<title>mike's portfolio</title>";
+echo "<link rel='stylesheet' type='text/css' href='style.css'>";
+echo "</head>";
+echo "<h1>my portfolio</h1>";
+echo "<hr></hr>";
+echo "<body>";
+echo "<div>my name is mike and i'm a  junior developer mostly working on java and php</div>";
+echo "<img src='mg/pexels-lukas-574071.jpg' alt='Dev'>";
+echo "<hr>";
+echo "<br>";
+echo "<br>";
+echo "<div style='text-align: center;'>";
+echo "<a href='#'>Why should you trust me and hire me at your company?</a>";
+echo "</div>";
+echo "<br>";
+echo "<br>";
+echo "<div style='text-align: center;'>";
+echo "<div id='reason' style='display: inline-block; text-align: left;'>";
+echo "<ul style='padding-left: 0; margin-left: auto; margin-right: auto;'>";
+echo "<li>i have experience in development, i worked at a company while i was at uni</li>";
+echo "<li>i can offer many things and help in many subjects</li>";
+echo "<li>i can easily learn a new programming language and be adjustable at any company's need</li>";
+echo "</ul>";
+echo "</div>";
+echo "</div>";
+echo "</div>";
+echo "<div style 'text-align:bottom;'>";
+echo "<a href='#'>learn more</a>";
+echo "</body>";
+echo "</html>";
+?>
